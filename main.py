@@ -225,6 +225,6 @@ Later inspection reveals the button would have released ten thousand rubber duck
 
 Earth narrowly avoids a very unusual space age.
 
-THE END
+THE end
 """
             print(story)

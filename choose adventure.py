@@ -1,4 +1,4 @@
-EXTENSIONN
+
 user_choice = None
 
 story = """You are Ozan, a seventeen-year-old living in Toronto, Canada.
